@@ -1,0 +1,10 @@
+tools/
+tools_internal/
+_src_backup/
+*.exe
+*.pgn
+*.log
+*.err
+.vscode/
+__pycache__/
+*.pyc
