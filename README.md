@@ -29,6 +29,16 @@ go movetime 3000
 ```
 python tests/run_tests.py ./singularity.exe
 ```
+SF-2600: 79.0%, 74–10–16
+
+SF-2675: 68.0%, 61–14–25
+
+SF-2750: 55.5%, 47–17–36
+
+SF-2825: 53.5%, 44–19–37
+
+SF-2900: 39.0%, 25–28–47
+(tests ran with the current binary)
 
 perft, a few mates, WAC tactics. `tests/match.py` plays it against another engine (if you dont wanna use a gui for some reason)
 
