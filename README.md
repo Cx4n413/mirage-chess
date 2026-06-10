@@ -39,6 +39,7 @@ SF-2825: 53.5%, 44–19–37
 
 SF-2900: 39.0%, 25–28–47
 (tests ran with the current binary)
+should be around 2820 ELO against stockfish, probably higher against human players
 
 perft, a few mates, WAC tactics. `tests/match.py` plays it against another engine (if you dont wanna use a gui for some reason)
 
