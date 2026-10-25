@@ -49,5 +49,3 @@ perft, a few mates, WAC tactics. `tests/match.py` plays it against another engin
 - turn ponder off in the GUI
 - standard chess, no 960 or variants
 
-
-why do summer bridge when you can code a shitty chess bot *cries in fau student*
